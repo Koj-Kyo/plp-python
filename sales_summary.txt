@@ -1,0 +1,5 @@
+Sales Data Analysis Summary
+--------------------------
+Total Revenue: $1380
+Best-Selling Product: Widget
+Day with Highest Sales: 2023-10-02
