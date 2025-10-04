@@ -6,7 +6,6 @@
 # Sort my_list in ascending order.
 # Find and print the index of the value 30 in my_list. -->
 
-# Create an empty list called my_list.
 my_list = []
 
 # Append the following elements to my_list: 10, 20, 30, 40.
